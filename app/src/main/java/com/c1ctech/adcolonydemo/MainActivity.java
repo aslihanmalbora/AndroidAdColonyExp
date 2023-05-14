@@ -11,9 +11,8 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
-    private final static String APP_ID = "ENTER_YOUR_APP_ID";
-    private final static String BANNER_ZONE_ID = "ENTER_YOUR_BANNER_ZONE_ID";
-    private final static String INTERSTITIAL_ZONE_ID = "ENTER_YOUR_INTERSTITIAL_ZONE_ID";
+    private final static String APP_ID = "appf662cc86e6e04f2885";
+    private final static String INTERSTITIAL_ZONE_ID = "vzdcd8ae64771e4735bb";
     private final static String REWARD_ZONE_ID = "ENTER_YOUR_REWARD_ZONE_ID";
     public final static String[] AD_UNIT_Zone_Ids = new String[]{BANNER_ZONE_ID, INTERSTITIAL_ZONE_ID, REWARD_ZONE_ID};
 
